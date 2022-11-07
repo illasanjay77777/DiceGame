@@ -2,9 +2,8 @@
   width: 70%;
   margin: auto;
   text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+
 }
 
 .dice {
@@ -62,7 +61,12 @@ img {
   text-decoration: none;
 }
 .auto{
-  margin-left: 500px;
+  position: relative;
+  width: 100%;
+  height: fit-contsnt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 footer {
