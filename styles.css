@@ -64,7 +64,7 @@ img {
   position: relative;
   width: 100%;
   height: fit-content;
-  background-color: #333;
+
   display: flex;
   align-items: center;
   justify-content: center;
