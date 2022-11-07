@@ -63,7 +63,8 @@ img {
 .auto{
   position: relative;
   width: 100%;
-  height: fit-contsnt;
+  height: fit-content;
+  background-color: #333;
   display: flex;
   align-items: center;
   justify-content: center;
