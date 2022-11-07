@@ -7,12 +7,10 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
   background-color: #393E46;
-
 }
 
 h1 {
@@ -59,7 +57,13 @@ img {
   text-decoration: none;
 }
 .auto{
-  margin-left: 500px;
+  position: relative;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #393E46;
 }
 
 footer {
